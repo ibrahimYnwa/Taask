@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\extension\ExtensionTask\ExtensionTask\bin\Debug\netcoreapp3.1\ExtensionTask.exe
+C:\Users\HP\Desktop\extension\ExtensionTask\ExtensionTask\bin\Debug\netcoreapp3.1\ExtensionTask.deps.json
+C:\Users\HP\Desktop\extension\ExtensionTask\ExtensionTask\bin\Debug\netcoreapp3.1\ExtensionTask.runtimeconfig.json
+C:\Users\HP\Desktop\extension\ExtensionTask\ExtensionTask\bin\Debug\netcoreapp3.1\ExtensionTask.runtimeconfig.dev.json
+C:\Users\HP\Desktop\extension\ExtensionTask\ExtensionTask\bin\Debug\netcoreapp3.1\ExtensionTask.dll
+C:\Users\HP\Desktop\extension\ExtensionTask\ExtensionTask\bin\Debug\netcoreapp3.1\ExtensionTask.pdb
+C:\Users\HP\Desktop\extension\ExtensionTask\ExtensionTask\obj\Debug\netcoreapp3.1\ExtensionTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\extension\ExtensionTask\ExtensionTask\obj\Debug\netcoreapp3.1\ExtensionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\extension\ExtensionTask\ExtensionTask\obj\Debug\netcoreapp3.1\ExtensionTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\extension\ExtensionTask\ExtensionTask\obj\Debug\netcoreapp3.1\ExtensionTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\extension\ExtensionTask\ExtensionTask\obj\Debug\netcoreapp3.1\ExtensionTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\extension\ExtensionTask\ExtensionTask\obj\Debug\netcoreapp3.1\ExtensionTask.dll
+C:\Users\HP\Desktop\extension\ExtensionTask\ExtensionTask\obj\Debug\netcoreapp3.1\ExtensionTask.pdb
+C:\Users\HP\Desktop\extension\ExtensionTask\ExtensionTask\obj\Debug\netcoreapp3.1\ExtensionTask.genruntimeconfig.cache
